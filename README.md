@@ -1,16 +1,20 @@
-## Hi there 👋
+### Hi, I'm Md Saiful Islam 👋
 
-<!--
-**saifulislamdvp-gif/saifulislamdvp-gif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**C/C++ Developer | Building CLI Tools & Management Systems**
+📍 Chittagong, Bangladesh
 
-Here are some ideas to get you started:
+---
+#### 🔭 What I'm Working On
+- **Employee Data Management System in C** - File Handling + Struct
+- **Console Chess Game in C** - DSA Practice
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 🌱 Learning
+C Programming, Data Structures & Algorithms, Git & GitHub
+
+#### 💼 Looking for
+Entry-level Software Engineer / Internship Opportunities
+
+#### 📫 Connect with Me
+- Blog: techinfohubpro.blogspot.com
+- LinkedIn: https: linkedin.com/in/saiful.dvp
+- Facebook: https://facebook.com/saiful.islam.dvp
